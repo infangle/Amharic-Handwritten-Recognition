@@ -1,3 +1,13 @@
-data/Handwritten-Amharic-character-Dataset/
+# Ignore dataset folders and files
+data/
+data/Amharic Character Dataset 1/
+data/Amharic Character Dataset 2/
+data/Amharic Character Dataset 1.rar
+data/Amharic Character Dataset 2.rar
+
+# Ignore virtual environment
 venv/
 
+# Ignore Python compiled files
+*.pyc
+__pycache__/
