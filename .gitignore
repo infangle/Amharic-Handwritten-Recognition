@@ -6,7 +6,7 @@ data/Amharic Character Dataset 1.rar
 data/Amharic Character Dataset 2.rar
 
 # Ignore virtual environment
-venv/
+.venv/
 
 # Ignore Python compiled files
 *.pyc
