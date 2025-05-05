@@ -4,10 +4,8 @@ data/Amharic Character Dataset 1/
 data/Amharic Character Dataset 2/
 data/Amharic Character Dataset 1.rar
 data/Amharic Character Dataset 2.rar
+data/Handwritten-Amharic-character-Dataset/
 
-# Ignore virtual environment
-.venv/
 
 # Ignore Python compiled files
 *.pyc
-__pycache__/
